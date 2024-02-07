@@ -1,7 +1,9 @@
 ## Hi there! I'm Gabriel 👋
 
 - 🔭 Full Stack Developer | Back End | Front End | HTML5 | CSS3 | JavaScript | React | Python | API Rest
-- 📫 How to reach me: gabriel-pinho@outlook.com
+
+## My social media
+  [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
 
 ## Languages and Tools
 ### Frontend 
@@ -24,4 +26,4 @@
   ![Static Badge](https://img.shields.io/badge/visual_studio_code-007ACC?style=for-the-badge&logo=VisualStudioCode&logoColor=white)
   ![Static Badge](https://img.shields.io/badge/vercel-000000?style=for-the-badge&logo=Vercel&logoColor=white)
   
-  
+  [linkedin]:https://www.linkedin.com/in/gabriel--braga/
