@@ -1,7 +1,6 @@
 ## Hi there! I'm Gabriel 👋
 
-- 🔭 I’m currently working on weekly projects for my Full Stack Web Development course
-- 🌱 I’m currently learning PostgresSQL
+- 🔭 Full Stack Developer | Back End | Front End | HTML5 | CSS3 | JavaScript | React | Python | API Rest
 - 📫 How to reach me: gabriel-pinho@outlook.com
 
 ## Languages and Tools
