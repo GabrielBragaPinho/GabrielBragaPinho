@@ -1,6 +1,6 @@
 ## Hi there! I'm Gabriel 👋
 
-- 🔭 Full Stack Developer | Back End | Front End | HTML5 | CSS3 | JavaScript | React | Python | API Rest
+- 🔭 Web Developer | Back End | Front End | HTML5 | CSS3 | JavaScript | React | Vue | API Rest
 
 ## My social media
   [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
