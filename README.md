@@ -13,7 +13,6 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ### Frontend 
 
-  ![Static Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white)
    ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
   ![Quasar](https://img.shields.io/badge/Quasar-1976D2?style=for-the-badge&logo=quasar&logoColor=white)
   ### Backend
@@ -25,6 +24,5 @@
   ### General
 
   ![Static Badge](https://img.shields.io/badge/visual_studio_code-007ACC?style=for-the-badge&logo=VisualStudioCode&logoColor=white)
-  ![Static Badge](https://img.shields.io/badge/vercel-000000?style=for-the-badge&logo=Vercel&logoColor=white)
   
   [linkedin]:https://www.linkedin.com/in/gabriel--braga/
